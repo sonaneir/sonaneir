@@ -22,7 +22,6 @@
 
 <p align="center">
   📘 Reading <b>Microservices with Go, 2nd ed.</b> (Alexander Shuiskov) — service boundaries, discovery, Protobuf, gRPC, Kafka, Kubernetes, observability<br>
-  ✅ Finished <b>Hands-On RESTful Web Services with Go</b> — all 14 chapters in code: REST, middleware, PostgreSQL, MongoDB, gRPC, GraphQL, RabbitMQ, Docker, AWS, auth<br>
   🧱 Building fundamentals — operating systems, Linux, computer networks, databases, discrete math<br>
   🤖 Using AI tools the engineering way — coding agents, context engineering, MCP, RAG<br>
   🗂️ Keeping it all in an Obsidian knowledge base — 250+ linked notes
