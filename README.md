@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:1E3A8A&height=200&section=header&text=Yevhenii%20Pron&fontSize=48&fontColor=ffffff&desc=Go%20Backend%20Developer&descSize=20&descAlignY=65&animation=fadeIn" alt="Yevhenii Pron — Go Backend Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:1E3A8A&height=200&section=header&text=Yevhenii%20Pron&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Go%20Backend%20Developer&descSize=20&descAlignY=55" alt="Yevhenii Pron — Go Backend Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 <h2 align="center">🧭 What I'm doing now</h2>
 
 <p align="center">
-  📗 Working through <b>Hands-On RESTful Web Services with Go</b> — REST, middleware, PostgreSQL, MongoDB, gRPC, GraphQL, RabbitMQ, Docker, AWS, auth<br>
-  📘 Starting <b>Microservices with Go, 2nd ed.</b> — service boundaries, discovery, Protobuf, gRPC, Kafka, Kubernetes, observability<br>
+  📘 Reading <b>Microservices with Go, 2nd ed.</b> (Alexander Shuiskov) — service boundaries, discovery, Protobuf, gRPC, Kafka, Kubernetes, observability<br>
+  ✅ Finished <b>Hands-On RESTful Web Services with Go</b> — all 14 chapters in code: REST, middleware, PostgreSQL, MongoDB, gRPC, GraphQL, RabbitMQ, Docker, AWS, auth<br>
   🧱 Building fundamentals — operating systems, Linux, computer networks, databases, discrete math<br>
   🤖 Using AI tools the engineering way — coding agents, context engineering, MCP, RAG<br>
   🗂️ Keeping it all in an Obsidian knowledge base — 250+ linked notes
